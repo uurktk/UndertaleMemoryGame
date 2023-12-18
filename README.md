@@ -21,4 +21,4 @@ java Main
 ## Contributing
 If you'd like to contribute to this project, please open an issue or submit a pull request. Your contributions are welcome!
 
-###### Credits: Character images by DragonA7X
+###### Credits: Character images by [DragonA7X](https://www.deviantart.com/dragona7x)
